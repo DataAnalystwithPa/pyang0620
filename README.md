@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Pa Yeng Yang, you might remember me as @pyang0620
 - 🌱 I’m currently in my junior year learning Data science at Metropolitan State University 
-- 👀 How I got interset in Data science: As growing up math as always been one of my strength. Many people may say that Technology is what we all use everyday but little did they know it is math. If without math, technology wouldn't have exist and technology wouldn't be functionable. I just love the way how much numbers can be used to tell a stories and to make a descison everyday.   
-- 💞️ I’m looking to collaborate with anyone who has the same interset as I do on Data science. 
+- 👀 How I got interset in Data science: Many people may say that Technology is what we all use every day but little did they know it is math. If without math, technology wouldn't exist and technology wouldn't be functional. As growing up math has always been one of my strengths.  My friends and colleague would come to me whenever there is a math problem. I just love creating stories to explain to them for their understanding. This is why I decided to proceed with my career in data science to continue what I love doing. 
+- 💞️ I’m looking to collaborate with anyone who has the same interest as I do in Data science. 
 - 📫 How to reach me is by email: pyang0620@gmail.com
 
 <!---
